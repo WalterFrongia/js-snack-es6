@@ -6,7 +6,7 @@
 // 3) USIAMO I NUOVI METODI DEGLI ARRAY FOREACH() O FILTER().
 
 let numeriArray =[1, 25, 34, 45, 50, 55, 59];
-let min = 2;
+let min = 1;
 let max = 5;
 
 let risultato = myfunction(numeriArray, min, max)
